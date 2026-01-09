@@ -1,3 +1,11 @@
+//Q3. Logic
+
+//Pick one character
+//
+//Count how many times it appears
+
+//“This solution checks every character against all others.”
+
 package com.practice.string;
 
 public class CharacterFrequency {

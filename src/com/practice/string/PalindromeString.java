@@ -1,3 +1,11 @@
+//Logic
+
+//Reverse the string
+//
+//Compare with original
+
+//“If the reversed string is equal to the original, it is a palindrome.”
+
 package com.practice.string;
 
 public class PalindromeString {
