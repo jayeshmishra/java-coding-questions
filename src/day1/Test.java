@@ -1,4 +1,4 @@
-package com.practice.string;
+package day1;
 
 public class Test {
 

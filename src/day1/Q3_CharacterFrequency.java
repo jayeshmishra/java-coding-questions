@@ -6,9 +6,9 @@
 
 //“This solution checks every character against all others.”
 
-package com.practice.string;
+package day1;
 
-public class CharacterFrequency {
+public class Q3_CharacterFrequency {
 
 	public static void main(String[] args) {
 

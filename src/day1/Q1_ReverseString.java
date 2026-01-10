@@ -10,9 +10,9 @@
 
 
 
-package com.practice.string;
+package day1;
 
-public class ReverseString {
+public class Q1_ReverseString {
 
 	public static void main(String[] args) {
 		

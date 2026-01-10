@@ -6,9 +6,9 @@
 
 //“If the reversed string is equal to the original, it is a palindrome.”
 
-package com.practice.string;
+package day1;
 
-public class PalindromeString {
+public class Q2_PalindromeString {
 
 	public static void main(String[] args) {
 
